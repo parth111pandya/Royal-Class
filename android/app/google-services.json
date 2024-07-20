@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517549420595",
+    "project_id": "royal-class-a136b",
+    "storage_bucket": "royal-class-a136b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517549420595:android:ac2333d705295466977346",
+        "android_client_info": {
+          "package_name": "com.example.royal_class_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHMhmIj3pUEoPYLCoq4iO27CscwfXBm5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
